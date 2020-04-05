@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import RandomQuoteMachine from './RandomQuoteMachine';
+import RandomAdagesMachine from './RandomAdagesMachine';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <RandomQuoteMachine />
+    <RandomAdagesMachine />
   </React.StrictMode>,
   document.getElementById('root')
 );

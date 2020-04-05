@@ -1,5 +1,5 @@
 import React from 'react';
-import './RandomQuoteMachine.css';
+import './RandomAdagesMachine.css';
 import adage from './adage';
 import ScrollAnimation from 'react-animate-on-scroll';
 
@@ -59,7 +59,7 @@ class QuoteBox extends React.Component {
     }
 }
 
-class RandomQuoteMachine extends React.Component {
+class RandomAdagesMachine extends React.Component {
     render() {
         return (
             <div>
@@ -74,4 +74,4 @@ class RandomQuoteMachine extends React.Component {
     }
 }
 
-export default RandomQuoteMachine;
+export default RandomAdagesMachine;
