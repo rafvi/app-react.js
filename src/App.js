@@ -56,7 +56,7 @@ class ContactList extends React.Component {
     return (
       <div>
         <ContactItem
-          login="raffi.ssj@gmail.com"
+          login="raffi@gmail.com"
           name="Raffi"
           description="SSJ"
         />
